@@ -12,7 +12,7 @@
 * **Framework:** React.js
 * **Styling:** SCSS
 * **Data Handling:** Custom Mock Data (JSON)
-* **Design & Tool:** **Figma**, Git, GitHub, Blender
+* **Design & Tool:** **Figma**, Git, GitHub, Blender, Photoshop, Illustrator
 
 ## 3. 기획 및 디자인 (Planning & Design)
 * **Tool:** Figma

@@ -41,15 +41,15 @@ $nav-height: 50px;
       border: 1px solid rgba( 255, 255, 255, 0.2 );
       box-shadow: 0 8px 32px 0 rgba( 0, 0, 0, 0.2 );
       @include flex-layout($just: space-between);
+      @include mobile{
+        width: 350px;
+      }
       // nav 기본 설정 - 숨김
       transition: 0.4s;
       transform: translateY(-150px);
 
       // header의 nav는 마우스가 통과되지 않도록 설정
       pointer-events: auto; 
-      @include mobile{
-        width: 350px;
-      }
 
       .icon-sofa {
         width: 100px;
